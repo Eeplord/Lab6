@@ -1,0 +1,5 @@
+Customer1 78.40
+Customer2 50.50
+Customer3 25.00
+Customer4 82.75
+Customer5 -300.00

@@ -1,0 +1,3 @@
+Customer2 50.5
+Customer3 25
+Customer4 82.75
